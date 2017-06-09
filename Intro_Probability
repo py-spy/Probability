@@ -1,0 +1,42 @@
+It is a mathematical calculation of chance of occurance of an event E.
+It can be denoted as P(E)
+Also, it lies in the interval [0,1]
+
+Impossible Event: Will have probability zero, E can never occur
+
+Sure Event: Will have probability as 1. E will def. occur
+
+Sample Point: A possible outcome of an experiment is called sample point.
+
+Sample Space: Set containig al possible outcomes. or it is a collection
+of all sample points.
+
+Random Experiment: Experiment for which all possible outcomes are known
+but the obtained outcome of a particular trial is not known in advance.
+
+Event: Subset of sample space.
+
+Simple Event: Event having one sample
+Coumpound Event: Event having more than one sample point
+
+Equi Likely or Equi probable: Two outcomes are called equi-likely if
+occurence of one is not favored over other.
+
+Set of exhaustive events: If all possile outcomes are covered by a set of events
+then this set is called set of exhasutive events.
+
+Disjoint event or Incompatible events or mutually exclusive: If occurance of
+one event rules out chance of occurance of other.
+
+Independent Events: Two events are indpendent if occurance or non
+occurance of one does not affect the chance of occurance of other.
+
+Classical Definition of Probability
+Let a sample contain m+n equally likely outcomes out of which m favors 
+occuracne of an event E, then prob of occurance of E is P(E) = m/(m+n)
+Number of fav outcomes / total number of outcomes.
+
+*To apply this formula all outcomes should be equi likely
+*In above case, odds in favor of E are m:n (fav:unfav)
+* Odds against event E are n:m (unfav:fav)
+*
